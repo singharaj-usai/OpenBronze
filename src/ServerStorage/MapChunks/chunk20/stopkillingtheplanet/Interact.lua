@@ -1,0 +1,1 @@
+return {"The park district is so big and beautiful!", "But why is there a power plant there?"}

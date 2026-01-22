@@ -1,0 +1,1 @@
+return 'I came out to Aredia City looking for treasure, but have yet to find anything valuable at all.'

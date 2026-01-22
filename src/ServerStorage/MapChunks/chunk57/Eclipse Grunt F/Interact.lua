@@ -1,0 +1,1 @@
+return {"Through this huge door is the boss's room.", "The doors are normally locked.", "Our security is top-notch, there's no way you'll ever wander all the way to our security room."}

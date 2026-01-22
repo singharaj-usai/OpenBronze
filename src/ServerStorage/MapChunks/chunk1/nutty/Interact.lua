@@ -1,0 +1,1 @@
+return {'Over there is the Pok[e\']mon Professor\'s lab.', 'Years of Pok[e\']mon research are stored in that facility.'}

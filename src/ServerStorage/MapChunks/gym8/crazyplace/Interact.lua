@@ -1,0 +1,1 @@
+return {'This Place is Crazy!', 'Its so scary knowing this place could collapse at any moment.'}

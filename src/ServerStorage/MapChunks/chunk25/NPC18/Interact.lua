@@ -1,0 +1,1 @@
+return 'In the back of the palace is the entrance to the Aredia City Gym.'

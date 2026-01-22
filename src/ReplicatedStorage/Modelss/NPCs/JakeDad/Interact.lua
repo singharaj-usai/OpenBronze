@@ -1,0 +1,1 @@
+return {'Do me a favor and keep an eye on Jake for me.', 'He\'s a very spirited young man, but he\'s not the brightest.'}

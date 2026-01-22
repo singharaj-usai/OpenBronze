@@ -1,0 +1,1 @@
+return {"I wonder how many cars pass here a day.", "Oh!", "Don't mind me, I'm just rambling."}

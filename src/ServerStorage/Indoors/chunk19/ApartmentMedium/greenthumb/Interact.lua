@@ -1,0 +1,1 @@
+return 'This indoor garden area is beautiful.'

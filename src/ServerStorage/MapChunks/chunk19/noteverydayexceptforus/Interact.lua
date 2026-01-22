@@ -1,0 +1,1 @@
+return {'My wife and I are touring Anthian City.','It\'s not every day that you get to visit a giant flying city.'}

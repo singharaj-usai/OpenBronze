@@ -1,0 +1,1 @@
+return {'A lot of the stuff in the Pokemon Museum is really old...','...kinda like me.'}

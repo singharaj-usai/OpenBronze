@@ -1,0 +1,1 @@
+return { "Most of Roria's food products come from off-island.", "Roria just doesn't have enough farmers anymore." }

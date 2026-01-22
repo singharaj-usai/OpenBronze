@@ -1,0 +1,1 @@
+return 'I\'m more interested in the artifacts and fossils inside the museum than the art.'

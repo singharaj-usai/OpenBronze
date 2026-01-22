@@ -1,0 +1,1 @@
+return 'It\'s a shame that the people of Anthian City were so rude to Team Eclipse in the past...'

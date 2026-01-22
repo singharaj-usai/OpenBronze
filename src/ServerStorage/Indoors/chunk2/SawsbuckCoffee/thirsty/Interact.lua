@@ -1,0 +1,1 @@
+return {'I have to have my coffee every morning.', 'It gives me a great speed boost!'}

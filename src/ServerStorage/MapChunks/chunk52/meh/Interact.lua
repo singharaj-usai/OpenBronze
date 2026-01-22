@@ -1,0 +1,1 @@
+return { "These shipping containers get left out here until they are ready to be shipped to the consumers." }

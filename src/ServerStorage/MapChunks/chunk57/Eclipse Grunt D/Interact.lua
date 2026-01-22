@@ -1,0 +1,1 @@
+return { "It stinks that this world will be left in ruins when we wake up that Hoopa Pokemon and leave.", "That is, until you remember that the new world will be all ours and so full of potential!" }

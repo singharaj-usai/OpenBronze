@@ -1,0 +1,1 @@
+return {"Holy cow!", "These colors are so beautiful, and such a great price too!"}

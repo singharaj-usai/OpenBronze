@@ -1,0 +1,2 @@
+return {'We\'re fresh out of fish.',
+	'Our trusty fisherman makes frequent stops here to drop off his catch and then heads back out to Crescent Island where he catches the best tasting Magikarp in Roria. It\'s risky buisness working around an island of criminals, but he does it anyhow.'}

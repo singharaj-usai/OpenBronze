@@ -1,0 +1,1 @@
+return {'I am here on vacation for a few weeks.','There is so much that I want to do still.','I think I might go try the Pokemon Gym soon.'}

@@ -1,0 +1,1 @@
+return 'The savannah, or Route 5, is just ahead.'

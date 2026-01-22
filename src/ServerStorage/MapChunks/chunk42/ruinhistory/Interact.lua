@@ -1,0 +1,2 @@
+return {'I\'ve been studying these ruins for a while now.', 'These are the remains of a civilization that\'s over one thousand years old.',
+	'There was a great disaster that ruined this city, and the residents relocated to what is now Fluoruma City.'}

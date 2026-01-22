@@ -1,0 +1,1 @@
+return {"The food here isn\'t the best, but that doesn\'t stop me from eating seconds or thirds."}

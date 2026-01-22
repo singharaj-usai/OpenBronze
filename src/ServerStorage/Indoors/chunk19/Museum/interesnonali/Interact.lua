@@ -1,0 +1,1 @@
+return 'There are a lot of interesting exhibits on display in this museum.'

@@ -1,0 +1,1 @@
+return { "I was laying down on my towel when I felt a lump under my back.", "I think there is something living under the sand." }

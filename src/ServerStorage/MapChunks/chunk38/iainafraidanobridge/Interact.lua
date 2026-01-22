@@ -1,0 +1,2 @@
+return {'Through my adventures, I\'ve learned to trust narrow wooden bridges.',
+	'Some people find them frightening, but as long as you run across them and dont look down, you\'ll usually make it across them alive.',}

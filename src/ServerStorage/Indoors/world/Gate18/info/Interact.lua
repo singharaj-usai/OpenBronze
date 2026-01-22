@@ -1,0 +1,1 @@
+return {'On Route 14, you\'ll find the ruins of Roria\'s first underground city.', 'It is a must-see for historians and tourists!'}

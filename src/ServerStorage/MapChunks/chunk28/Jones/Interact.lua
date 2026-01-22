@@ -1,0 +1,1 @@
+return {'Ekans...', 'I hate Ekans.'}

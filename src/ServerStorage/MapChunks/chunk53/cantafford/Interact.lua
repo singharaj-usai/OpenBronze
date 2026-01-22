@@ -1,0 +1,1 @@
+return{'My fish are all local.', 'To me, that means they are worth more.', 'I can\'t afford to cut prices if I\'m going to compete with that older couple and their Crescent Karp.'}

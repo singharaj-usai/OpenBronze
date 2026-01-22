@@ -1,0 +1,1 @@
+return {"My father funded the production of this city way back when...", "This plane was erected as a symbol of his generosity and philanthropy."}

@@ -1,0 +1,1 @@
+return { "Creating this lab required a lot of digging.", "We discovered that this island still has some very active magma pools beneath it.", "We use the heat to generate power." }

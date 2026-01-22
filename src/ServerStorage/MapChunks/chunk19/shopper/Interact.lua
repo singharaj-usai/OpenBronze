@@ -1,0 +1,1 @@
+return {'I loooooooove shopping!','I spent all day in the shopping district.','Continue up the stairs and do some shopping for yourself!'}

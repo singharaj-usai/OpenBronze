@@ -1,0 +1,1 @@
+return { "The magma that is below this island helps us power these turbines.", "This is the only way for us to generate any power on this forsaken rock." }

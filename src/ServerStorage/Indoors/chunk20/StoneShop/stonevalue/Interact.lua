@@ -1,0 +1,1 @@
+return 'Some of these stones are quite rare and valuable.'

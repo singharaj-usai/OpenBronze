@@ -1,0 +1,1 @@
+return 'I\'m making my wife a sandwich.'

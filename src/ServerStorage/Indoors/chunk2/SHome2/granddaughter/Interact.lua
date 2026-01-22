@@ -1,0 +1,1 @@
+return {'My grandpa really likes Pok[e\']mon.', 'They were the only friends he had growing up.'}

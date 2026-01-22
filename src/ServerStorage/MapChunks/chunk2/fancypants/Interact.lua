@@ -1,0 +1,2 @@
+return {'I made a large donation to this town some years ago to build this Squirtle fountain.',
+	'My first Pok[e\']mon was a Squirtle, and after he passed away I wanted to honor him by having this statue built.'}

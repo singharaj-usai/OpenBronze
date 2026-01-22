@@ -1,0 +1,1 @@
+return {'Wow!', 'These gems are super pretty!'}

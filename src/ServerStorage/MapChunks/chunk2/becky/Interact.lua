@@ -1,0 +1,1 @@
+return {'Like, oh my gosh!', 'I can\'t believe he did that!'}

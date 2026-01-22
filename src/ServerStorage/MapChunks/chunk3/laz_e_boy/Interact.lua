@@ -1,0 +1,1 @@
+return 'Oh, I\'m just counting these stairs to see if it\'s worth climbing all the way up to the Pok[e\']mon Center.'

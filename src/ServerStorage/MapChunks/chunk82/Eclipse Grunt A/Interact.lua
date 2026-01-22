@@ -1,0 +1,1 @@
+return { "This door is always locked.", "Not even grunts are cleared to pass through.", "What could possibly be behind this door?", "It's probably just a storage closet..." }

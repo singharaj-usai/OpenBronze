@@ -1,0 +1,2 @@
+return {'It\'s hard to compete with that older couple over there.',
+	'They get their amazing fish from around Crescent Island.', 'There are not many fisherman that are brave enough to go fishing that close to the island.'}

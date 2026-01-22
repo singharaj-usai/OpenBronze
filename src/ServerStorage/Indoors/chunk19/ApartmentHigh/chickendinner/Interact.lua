@@ -1,0 +1,1 @@
+return 'I\'m only able to afford this place because I won big at the casino.'

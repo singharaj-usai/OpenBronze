@@ -1,0 +1,1 @@
+return 'It looks like there\'s a cave down there, but you can\'t get to it without surfing there from the river.'

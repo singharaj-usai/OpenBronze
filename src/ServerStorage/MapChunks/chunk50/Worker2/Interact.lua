@@ -1,0 +1,1 @@
+return { "This lift will take you up to the construction site.", "The boss has allowed a lot of Pokemon to work alongside the men on the tower.", "If you startle the Pokemon, they may initiate a battle with you, so be careful."};

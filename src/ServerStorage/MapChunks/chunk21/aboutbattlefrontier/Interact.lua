@@ -1,0 +1,1 @@
+return {'This will be the Battle Frontier when it is finished.', 'It\'s all underground.'}

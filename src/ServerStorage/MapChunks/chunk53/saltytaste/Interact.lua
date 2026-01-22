@@ -1,0 +1,1 @@
+return{'I like to buy the dried seaweed chips that are sold at the market here.', 'The salty taste is such a treat.'}

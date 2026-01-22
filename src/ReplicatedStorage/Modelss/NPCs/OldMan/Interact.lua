@@ -1,0 +1,1 @@
+return {'I remember when they used to say there\'s only 150 Pok[e\']mon.', 'My, how time flies.', 'Supposedly now it\'s estimated that there are over 700 kinds!'} 

@@ -1,0 +1,1 @@
+return { "This leads to the prison cells and ship hangar.", "The boss plans to depart soon for the cave which he believes contains the Pokemon that will help carry out his plan." }

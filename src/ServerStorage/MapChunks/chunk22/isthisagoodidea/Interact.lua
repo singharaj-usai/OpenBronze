@@ -1,0 +1,2 @@
+return {'I wonder who thought it was a good idea to take a mass of land and float it several thousand feet in the air above the earth.',
+	'It certainly keeps out the riff raff, but makes it harder for people to travel out of the city.'}

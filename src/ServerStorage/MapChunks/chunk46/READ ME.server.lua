@@ -1,0 +1,4 @@
+-- Fog color is 184, 212, 227
+--Fog start is 200
+--fog end is 1000
+--music id is 3861098815

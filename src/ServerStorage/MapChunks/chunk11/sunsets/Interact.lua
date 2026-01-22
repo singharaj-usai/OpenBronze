@@ -1,0 +1,1 @@
+return 'You can get a really good view of the sunsets over the ocean from up here.'

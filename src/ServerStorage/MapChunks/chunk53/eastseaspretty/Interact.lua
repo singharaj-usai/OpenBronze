@@ -1,0 +1,1 @@
+return {'Roria\'s east seas are so pretty.', 'There are also so many Pokemon you can only find in the water on this side of Roria.'}

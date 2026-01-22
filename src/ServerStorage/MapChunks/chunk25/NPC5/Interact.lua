@@ -1,0 +1,1 @@
+return 'The prince welcomes all challenges from trainers.'

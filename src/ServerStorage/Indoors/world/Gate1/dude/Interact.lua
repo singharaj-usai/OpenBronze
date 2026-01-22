@@ -1,0 +1,2 @@
+return {'I just recently learned that Pok[e\']mon get more experience when they battle trained Pok[e\']mon than wild Pok[e\']mon.',
+	'Wild Pok[e\']mon aren\'t as good at battling so your Pok[e\']mon don\'t learn as much from them.'}

@@ -1,0 +1,1 @@
+return 'The clerk inside the Golden Pok[e\'] Ball said if I threw all my money into this fountain, my wish might come true.'

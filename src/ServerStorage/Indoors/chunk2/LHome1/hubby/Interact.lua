@@ -1,0 +1,1 @@
+return {'My wife and I just moved to this town.', 'We wanted to start our family outside of a big city.'}

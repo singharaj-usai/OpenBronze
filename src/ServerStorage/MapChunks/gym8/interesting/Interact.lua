@@ -1,0 +1,1 @@
+return {'Im Just Observing The Remains of This Place.', 'Its amazing how it still stands and none of it has collapsed in.'}

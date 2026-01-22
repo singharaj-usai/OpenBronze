@@ -1,0 +1,1 @@
+return 'I can\'t decide whether I want to live here or at the cheaper place across the street.'

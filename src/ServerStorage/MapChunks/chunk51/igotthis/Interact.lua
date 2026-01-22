@@ -1,0 +1,1 @@
+return {'This is the entrance to the Roria league.', 'I\'ve dreamed my whole life that I would someday make it this far.', 'My Pok[e\']mon and I have trained so hard to get all eight of Roria\'s gym badges!'}

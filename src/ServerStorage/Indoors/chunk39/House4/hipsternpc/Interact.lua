@@ -1,0 +1,2 @@
+return {'I stopped by the Pok[e\'] Ball Stamp shop in town earlier to customize my Pikachu\'s Pok[e\'] Ball.',
+	'Now when I send him out into battle, his Pok[e\'] Ball erupts into a series of thunderbolts!'}

@@ -1,0 +1,1 @@
+return 'This place always carries the most interesting Pok[e\'] Balls.'

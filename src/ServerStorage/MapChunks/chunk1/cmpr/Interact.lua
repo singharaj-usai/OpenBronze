@@ -1,0 +1,1 @@
+return {'I don\'t know why, but the water has always scared me.', 'I\'m not a very good swimmer.', 'Some people ride on the backs of Pok[e\']mon and let them do the swimming.'}

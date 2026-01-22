@@ -1,0 +1,1 @@
+return {'Frostveil City is the first City on the Mountain.', 'It is a must-see for historians and tourists!'}

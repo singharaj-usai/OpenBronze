@@ -1,0 +1,1 @@
+return {'I made all my money off of the casino inside.','I was blessed with luck.','I just can\'t lose.'}

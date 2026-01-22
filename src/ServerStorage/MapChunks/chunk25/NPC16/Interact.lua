@@ -1,0 +1,1 @@
+return 'Welcome to Aredia City, where even the fountains are filled with sand...'

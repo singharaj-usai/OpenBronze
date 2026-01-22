@@ -1,0 +1,1 @@
+return {'You look like a strong trainer.', 'You should seriously consider joining Team Eclipse.'}

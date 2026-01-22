@@ -1,0 +1,1 @@
+return {'Be careful not to get lost in these old mines.', 'These tunnels stretch all through the Cragonos mountain range.'}

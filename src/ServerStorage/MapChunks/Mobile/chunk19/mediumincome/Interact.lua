@@ -1,0 +1,1 @@
+return {'I live in these apartments.','They\'re just right for me because they aren\'t too cheap or too expensive.'}

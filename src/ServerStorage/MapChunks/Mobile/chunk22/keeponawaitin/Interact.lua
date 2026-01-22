@@ -1,0 +1,1 @@
+return 'I\'m waiting for a friend.'

@@ -1,0 +1,1 @@
+return {"My father used to fly planes like these.","I wonder if he'd want pictures of it.", 'Maybe just a selfie?'}

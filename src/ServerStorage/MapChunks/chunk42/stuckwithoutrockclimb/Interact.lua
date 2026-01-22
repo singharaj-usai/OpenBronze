@@ -1,0 +1,1 @@
+return {'Well, I can\'t progress any further.', 'It\'s my fault for not bringing a Pokemon that knows Rock Climb.'}

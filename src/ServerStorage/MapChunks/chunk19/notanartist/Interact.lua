@@ -1,0 +1,1 @@
+return {'I wish I was a better artist.','I\'m just not motivated to try as hard as the people who have their art on display inside.'}

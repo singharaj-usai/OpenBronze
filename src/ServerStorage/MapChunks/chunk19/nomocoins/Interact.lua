@@ -1,0 +1,1 @@
+return {'I lost all my coins in the Golden Pok[e\'] Ball Casino.','I was going to try and save up for some nice things...'}

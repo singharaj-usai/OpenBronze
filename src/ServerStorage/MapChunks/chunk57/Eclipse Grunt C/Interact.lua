@@ -1,0 +1,1 @@
+return { "I want to be something important when we get to this new world.", "Like an admin, or the leader of my own city..." }

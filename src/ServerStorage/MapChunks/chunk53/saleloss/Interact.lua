@@ -1,0 +1,2 @@
+return {'I think he\'s trying to make up for the loss of sales he\'s getting from the older couple whose fish are much bigger and tastier.',
+	'I\'ve been trying to bargain with him, but he refuses to cut me a deal.'}

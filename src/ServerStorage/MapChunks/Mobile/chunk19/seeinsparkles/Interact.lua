@@ -1,0 +1,1 @@
+return {'I love how much the city lights up at night.', 'The whole city seems to sparkle.'}

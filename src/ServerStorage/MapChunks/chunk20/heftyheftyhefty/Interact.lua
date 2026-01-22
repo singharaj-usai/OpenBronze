@@ -1,0 +1,1 @@
+return {'The furniture here is quite sturdy.', 'Good enough, even, to support a hefty man like me!'}

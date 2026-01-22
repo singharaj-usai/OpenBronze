@@ -1,0 +1,1 @@
+return {'Welcome to Crescent Town, how tough are ya?'}

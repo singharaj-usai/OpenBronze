@@ -1,0 +1,1 @@
+return {"The battle district is a marvelous place.", "You can battle a variety of players, including a Gym Leader!"}

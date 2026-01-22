@@ -1,0 +1,1 @@
+return 'The casino is a fun place to play games and win big prizes.'

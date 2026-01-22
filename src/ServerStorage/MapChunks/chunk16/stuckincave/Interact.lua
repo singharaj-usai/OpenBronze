@@ -1,0 +1,1 @@
+return {'There\'s a rock blocking my path to Route 11.', 'What am I going to do now?'}

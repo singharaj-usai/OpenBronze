@@ -1,0 +1,1 @@
+return {'I just lost to the Gym Leader.', 'Maybe I need to rethink my strategy.'}

@@ -1,0 +1,1 @@
+return {'Some wild Pok[e\']mon are harder to catch than others.', 'Also, some Pok[e\'] Balls are more effective on certain Pok[e\']mon.'}
